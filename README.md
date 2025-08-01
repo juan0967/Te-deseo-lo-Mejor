@@ -1,4 +1,4 @@
-el proyecto trata de las diferentes estructura de datos desde estatica hasta dinamica para mi es algo sencillo, pero quiero profundizar en cada una de ellas.
+El proyecto trata de las diferentes estructura de datos desde estatica hasta dinamica para mi es algo sencillo, pero quiero profundizar en cada una de ellas.
 Empezaré con los arrays, que son la base de todo, luego las listas enlazadas, pilas, colas, árboles y grafos.
 Me interesa mucho ver cómo se implementan y las ventajas y desventajas de cada una. También quiero hacer ejercicios prácticos para afianzar los conocimientos.
 Para los arrays, quiero explorar cómo se almacenan los elementos en memoria y cómo se accede a ellos de manera eficiente. Me gustaría entender bien la diferencia entre arrays estáticos y dinámicos, y cuándo es más apropiado usar uno u otro.
